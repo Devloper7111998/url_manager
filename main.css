@@ -24,8 +24,8 @@ body {
 } */
 
 .filters_div {
-  width: 18%;
-  margin-left: 2%;
+  width: 16%;
+  margin-left: 1%;
   text-align: center;
   border: 1px solid black;
   padding: 1%;
@@ -34,7 +34,7 @@ body {
 }
 
 .card_main {
-  margin-bottom: 10%;
+  margin-bottom: 7%;
   margin-left: 10%;
 }
 
@@ -79,4 +79,12 @@ body {
   color: #6b4eee;
   text-decoration: none;
   cursor: pointer;
+}
+
+#refresh_dashboard_button {
+  margin-left: 15%;
+}
+
+.modal-backdrop {
+  z-index: 0;
 }
